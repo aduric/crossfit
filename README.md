@@ -1,4 +1,4 @@
 crossfit
 ========
 
-Personal Wod tracker
+Personal Wod tracker.
